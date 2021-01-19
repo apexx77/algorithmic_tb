@@ -7,4 +7,5 @@ int main() {
     cin >> a >> b;
     ans = a+b;
     cout << ans << endl;
+    return 0;
 }
